@@ -1,0 +1,8 @@
+prefix=/home/daicon_v/Documents/JYPE_research/training/catkin_ws/install
+
+Name: pa10controller
+Description: Description of pa10controller
+Version: 0.0.0
+Cflags: -I/home/daicon_v/Documents/JYPE_research/training/catkin_ws/install/include
+Libs: -L/home/daicon_v/Documents/JYPE_research/training/catkin_ws/install/lib 
+Requires: message_runtime

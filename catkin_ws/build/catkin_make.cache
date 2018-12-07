@@ -1,0 +1,2 @@
+akrauch-rovi/pa10_controller_interface:akrauch-rovi/pa10_description:akrauch-rovi/pa10_gazebo:akrauch-rovi/pa10_moveit_config:akrauch-rovi/pa10controller:akrauch-rovi/pg70:akrauch-rovi/pg70_description:pa10_controller/pa10:pa10_controller/pa10_logger
+-DCATKIN_DEVEL_PREFIX=/home/daicon_v/Documents/JYPE_research/training/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/daicon_v/Documents/JYPE_research/training/catkin_ws/install -G Unix Makefiles

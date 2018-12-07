@@ -1,0 +1,2 @@
+set(pg70_MESSAGE_FILES "")
+set(pg70_SERVICE_FILES "/home/daicon_v/Documents/JYPE_research/training/catkin_ws/src/akrauch-rovi/pg70/srv/Close.srv;/home/daicon_v/Documents/JYPE_research/training/catkin_ws/src/akrauch-rovi/pg70/srv/Home.srv;/home/daicon_v/Documents/JYPE_research/training/catkin_ws/src/akrauch-rovi/pg70/srv/Move.srv;/home/daicon_v/Documents/JYPE_research/training/catkin_ws/src/akrauch-rovi/pg70/srv/Open.srv;/home/daicon_v/Documents/JYPE_research/training/catkin_ws/src/akrauch-rovi/pg70/srv/Stop.srv")

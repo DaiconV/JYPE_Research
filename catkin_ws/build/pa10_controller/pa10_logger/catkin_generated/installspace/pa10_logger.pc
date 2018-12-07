@@ -1,0 +1,8 @@
+prefix=/home/daicon_v/Documents/JYPE_research/training/catkin_ws/install
+
+Name: pa10_logger
+Description: Description of pa10_logger
+Version: 0.0.0
+Cflags: -I/home/daicon_v/Documents/JYPE_research/training/catkin_ws/install/include
+Libs: -L/home/daicon_v/Documents/JYPE_research/training/catkin_ws/install/lib -lpa10_logger
+Requires: roscpp rospy sensor_msgs std_msgs tf

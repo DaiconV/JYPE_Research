@@ -1,0 +1,8 @@
+prefix=/home/daicon_v/Documents/JYPE_research/training/catkin_ws/devel
+
+Name: pa10_description
+Description: Description of pa10_description
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/daicon_v/Documents/JYPE_research/training/catkin_ws/devel/lib 
+Requires: 

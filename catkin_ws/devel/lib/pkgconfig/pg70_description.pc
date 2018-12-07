@@ -1,0 +1,8 @@
+prefix=/home/daicon_v/Documents/JYPE_research/training/catkin_ws/devel
+
+Name: pg70_description
+Description: Description of pg70_description
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/daicon_v/Documents/JYPE_research/training/catkin_ws/devel/lib 
+Requires: 

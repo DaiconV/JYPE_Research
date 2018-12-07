@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/daicon_v/Documents/JYPE_research/training/catkin_ws/src/pa10_controller/pa10/include/Matrix.hpp
+
+/home/daicon_v/Documents/JYPE_research/training/catkin_ws/src/pa10_controller/pa10/include/PA10Kinematics.hpp
+vector
+-
+Matrix.hpp
+/home/daicon_v/Documents/JYPE_research/training/catkin_ws/src/pa10_controller/pa10/include/Matrix.hpp
+
+/home/daicon_v/Documents/JYPE_research/training/catkin_ws/src/pa10_controller/pa10/src/init/PA10Kinematics.cpp
+iostream
+-
+vector
+-
+cmath
+-
+Matrix.hpp
+/home/daicon_v/Documents/JYPE_research/training/catkin_ws/src/pa10_controller/pa10/src/init/Matrix.hpp
+PA10Kinematics.hpp
+/home/daicon_v/Documents/JYPE_research/training/catkin_ws/src/pa10_controller/pa10/src/init/PA10Kinematics.hpp
+

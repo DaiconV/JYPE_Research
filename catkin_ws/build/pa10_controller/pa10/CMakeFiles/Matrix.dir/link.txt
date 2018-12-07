@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/daicon_v/Documents/JYPE_research/training/catkin_ws/devel/lib/libMatrix.a  CMakeFiles/Matrix.dir/src/init/Matrix.cpp.o
+/usr/bin/ranlib /home/daicon_v/Documents/JYPE_research/training/catkin_ws/devel/lib/libMatrix.a

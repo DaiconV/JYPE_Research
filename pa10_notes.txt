@@ -1,0 +1,51 @@
+T: period
+x 	= 500(t / T)
+y 	= 0
+z 	= 1317 - 817(t / T)
+
+phi 	= -pi * (t / T) / 2
+theta 	= -pi * (t / T) / 2
+psi 	= 0
+
+pa10_kinematic class:
+public:
+	x
+	y
+	z
+	phi
+	theta
+	psi
+	theta 1-6
+public:
+	inverse(x, y, z, phi, theta, psi);
+	forward(theta1, theta2, theta3, theta4, theta5, theta6);
+	printMatrix()
+
+
+100
+100
+500
+-0.78539816339
+-1.57079632679
+0
+
+-100
+100
+500
+-2.35619449019
+-1.57079632679
+0
+
+100
+-100
+500
+0.78539816339
+-1.57079632679
+0
+
+-100
+-100
+500
+2.35619449019
+-1.57079632679
+0

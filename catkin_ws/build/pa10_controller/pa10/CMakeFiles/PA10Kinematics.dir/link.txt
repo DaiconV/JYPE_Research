@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/daicon_v/Documents/JYPE_research/training/catkin_ws/devel/lib/libPA10Kinematics.a  CMakeFiles/PA10Kinematics.dir/src/init/PA10Kinematics.cpp.o
+/usr/bin/ranlib /home/daicon_v/Documents/JYPE_research/training/catkin_ws/devel/lib/libPA10Kinematics.a
